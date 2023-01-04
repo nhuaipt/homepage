@@ -1,0 +1,15 @@
+Commit: save the state of your project in Git
+
+A repository is a directory which contains your project.
+Repositories can exist either locally on your computer or as a remote copy on another computer. 
+A repository is made up of commits.
+
+The Working Directory is the files that you see in your computer's file system.
+
+Staging Area / Staging Index / Index
+A file in the Git directory that stores information about what will go into your next commit.
+When a commit is made, only the changes that are in the Staging Index are saved in the repository.
+
+SHA
+A SHA is basically an ID number for each commit. 
+Here's what a commit's SHA might look like: e2adf8ae3e2e4ed40add75cc44cf9d0a869afeb6.
