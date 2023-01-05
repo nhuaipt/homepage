@@ -13,3 +13,10 @@ When a commit is made, only the changes that are in the Staging Index are saved 
 SHA
 A SHA is basically an ID number for each commit. 
 Here's what a commit's SHA might look like: e2adf8ae3e2e4ed40add75cc44cf9d0a869afeb6.
+
+Branch
+A branch is when a new line of development is created that diverges from the main line of development. 
+This alternative line of development can continue without altering the main line.
+
+Checkout
+A checkout is when content in the repository has been copied to the Working Directory.
